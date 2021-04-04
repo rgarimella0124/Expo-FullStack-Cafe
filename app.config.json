@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Full Stack Cafe",
+    "slug": "fullStackCafe",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "android": {
+      "package": "com.fullstack.cafe",
+      "versionCode": 1
+    }
+  }
+}
